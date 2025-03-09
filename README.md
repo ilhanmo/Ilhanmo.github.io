@@ -21,10 +21,10 @@ I am currently a **4th-year Business Analytics student** at the **University of 
 ## 🏗️ Portfolio Structure
 This portfolio is organized into different sections for easy navigation:
 
-🔹 **[Home](https://ilhanmo.github.io/)** – Introduction, personal brand statement, and contact information.  
-🔹 **[Skills](https://ilhanmo.github.io/skills.html)** – A breakdown of my technical and soft skills.  
-🔹 **[Projects](https://ilhanmo.github.io/projects.html)** – A collection of my academic, internship, and capstone projects.  
-🔹 **[Work Experience](ilhanmo.github.io/experience.html)** – My professional roles, responsibilities, and key achievements.  
-🔹 **[Education](https://ilhanmo.io/education.html)** – Relevant coursework, certifications, and learning experiences.  
+🔹 **[Home](https://github.com/ilhanmo/Ilhanmo.github.io)** – Introduction, personal brand statement, and contact information.  
+🔹 **[Skills](https://github.com/ilhanmo/Ilhanmo.github.io/blob/main/Skills.md)** – A breakdown of my technical and soft skills.  
+🔹 **[Projects](https://github.com/ilhanmo/Ilhanmo.github.io/blob/main/Projects.md)** – A collection of my academic, internship, and capstone projects.  
+🔹 **[Work Experience](https://github.com/ilhanmo/Ilhanmo.github.io/blob/main/Work%20Experience.md)** – My professional roles, responsibilities, and key achievements.  
+🔹 **[Education](https://github.com/ilhanmo/Ilhanmo.github.io/blob/main/Education.md)** – Relevant coursework, certifications, and learning experiences.  
 
 Each section contains detailed insights into my experiences, projects, and contributions. Click on any section above to explore more!
