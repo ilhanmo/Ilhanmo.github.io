@@ -28,3 +28,15 @@ This portfolio is organized into different sections for easy navigation:
 🔹 **[Education](https://github.com/ilhanmo/Ilhanmo.github.io/blob/main/Education.md)** – Relevant coursework, certifications, and learning experiences.  
 
 Each section contains detailed insights into my experiences, projects, and contributions. Click on any section above to explore more!
+
+## 🚀 How to Use This Portfolio
+- **Explore My Projects**: Check out the detailed descriptions of my projects to see how I apply my technical skills to solve real-world problems.
+- **Connect with Me**: Feel free to reach out to me via LinkedIn or email for collaboration opportunities, job inquiries, or general discussions on data analytics and business optimization.
+- **Browse My Work Experience**: Learn more about my internships and professional experience that have shaped my skills and expertise in business analytics.
+
+## 📫 Contact
+- **Email**: [ilhan.mohamed@du.edu](mailto:ilhan.mohamed@du.edu)  
+- **LinkedIn**: [Ilhan Mohamed](https://www.linkedin.com/in/ilhan-mohamed-033b52250/)  
+- **GitHub**: [Ilhan Mohamed GitHub](https://github.com/ilhanmo/Ilhanmo.github.io)  
+
+Thank you for visiting my portfolio! 😊
